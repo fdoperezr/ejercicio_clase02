@@ -2,7 +2,7 @@
 
 export default function Footer() {
     return (
-        <footer className="container py-5">
+        <footer className="py-5 bg-info mt-5">
             <div className="d-flex justify-content-center">
                 Ejercicio Clase 02
         </div>
